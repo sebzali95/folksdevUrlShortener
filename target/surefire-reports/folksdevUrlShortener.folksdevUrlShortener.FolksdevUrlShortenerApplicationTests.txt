@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: folksdevUrlShortener.folksdevUrlShortener.FolksdevUrlShortenerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 13.118 s - in folksdevUrlShortener.folksdevUrlShortener.FolksdevUrlShortenerApplicationTests
